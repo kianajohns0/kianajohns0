@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kiana Johnson
+# Hi there! 👋 I'm Kiana
 
 🚀 **About Me:**
 I'm currently diving deep into the world of data, combining computational power with data science to unravel insights and solve real-world problems. As a senior at George Mason University, majoring in Computational and Data Sciences, I'm always on the lookout for the next challenge.
